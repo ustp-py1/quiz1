@@ -9,3 +9,6 @@ total = liters *70
 
 #display the total
 print(f"the total cost is:{total}")
+
+ 
+  
